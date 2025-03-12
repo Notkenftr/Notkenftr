@@ -1,4 +1,4 @@
-#📦Giới thiệu về tôi:
+# 📦Giới thiệu về tôi:
 - Tên: Hưng
 - Sinh năm: 2k?
 - Đang sinh sống tại: Cần Thơ
