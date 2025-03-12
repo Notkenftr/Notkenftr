@@ -14,10 +14,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Notkenftr/Notkenftr/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">My Skill</h2>
 
 ###
