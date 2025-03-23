@@ -1,7 +1,7 @@
 # 📦Giới thiệu về tôi:
 - Tên: Hưng
-- Sinh năm: 2k?
-- Đang sinh sống tại: Cần Thơ
+- Sinh năm: 2k9
+- Đang sinh sống tại: Việt Nam
 # 💡Mục tiêu:
 - Trở thành AI Engineer
 
