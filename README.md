@@ -1,19 +1,23 @@
-# 📦Giới thiệu về tôi:
-- Tên: Hưng
-- Sinh năm: 2k9
-- Đang sinh sống tại: Việt Nam
-# 💡Mục tiêu:
-- Trở thành AI Engineer
-
-## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/BkpdWMcH9v) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kenftr_) 
-
-# 💻Tech Stack
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 	![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Notkenftr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Notkenftr&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Notkenftr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Notkenftr&icon=0&color=0)](https://visitcount.itsvg.in)
+# Kenftr
+tôi tên thật là hưng. Đam mê lập trình và trí tuệ nhân tạo. Tôi có kinh nghiệm với html, css, js, python, java. Nhưng chủ yếu py là chính.
+## Project
+- Bot deesyn: thiết kế 1 máy chủ discord với đầy đủ quyền hạng sử dụng Ai
+- Stell4r: bot sử dụng Ai để đưa ra các phân tích liên quan đến log v.v và tích hợp các module mạnh mẽ cho server minecraft ( hiện đang ngừng hoạt động )
+- SkillUp: một dự án tôi đang phát triển, leo rank bằng cách giải các bài code và nhận xp. xD
+- Ngoài ra còn một số project nhỏ hơn...
+## Hành trình trước đây
+- 2021: dòng code đầu tiên với lua, viết game trong roblox
+- 3 tháng sau: không tiếp tục còn đường học lua để làm game. Tạm dừng tới 2024
+- Hè 2024: bắt đầu học python, nắm rõ cơ bản
+- Sau đó 1 tuần: bắt đầu với dự án đầu tiên tên là **Aiko Project** sử dụng tkinter để làm gui, dự án dùng để duyệt qua log và tìm các client hack
+- Từ hè 2024 -> cuối năm 2024 học thêm về python nâng cao, làm các dự án như Stell4rBot
+- Đầu năm 2025: vẫn làm Stell4rBot
+- Tháng 3 2025: tạm hoãn dự án Stell4rBot tập trung vào ôn thi
+- Tháng 4 -> nay: Bắt đầu dự án mang tên deesyn và đây là dự án thành công nhất
+## Mục tiêu tương lai
+- cuối 2025: thành thạo và học xong về machine learning. Có thể tích hợp machine learning trong các dự án của mình
+- 2026: học Deep Learning
+- 2027: nghiên cứu về NLP
+- 2027: tốt nghiệp cấp 3
+- hè 2027: Chuyên sâu vào LLMs, Prompt engineering, fine-tune LLM
+- 2028: bắt đầu đại học và có thể xây dự được 1 dự án Ai cơ bản
