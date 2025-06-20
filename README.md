@@ -1,5 +1,5 @@
 # Kenftr
-tôi tên thật là hưng. Đam mê lập trình và trí tuệ nhân tạo. Tôi có kinh nghiệm với html, css, js, python, java. Nhưng chủ yếu py là chính.
+Tôi tên thật là hưng. Đam mê lập trình và trí tuệ nhân tạo. Tôi có kinh nghiệm với html, css, js, python, java, julia. Nhưng chủ yếu python là chính.
 ## Project
 - Bot deesyn: thiết kế 1 máy chủ discord với đầy đủ quyền hạng sử dụng Ai
 - Stell4r: bot sử dụng Ai để đưa ra các phân tích liên quan đến log v.v và tích hợp các module mạnh mẽ cho server minecraft ( hiện đang ngừng hoạt động )
