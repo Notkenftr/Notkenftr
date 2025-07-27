@@ -29,5 +29,5 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=notkenftr&show_icons=true&theme=transparent&bg_color=22232e&text_color=ffffff&hide_border=true&card_width=320&hide_rank=true&text_bold=false&title_color=2f81f7&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notkenftr&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=dark&background=22232e&border=22232e&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&card_width=320&hide_border=true" />
 </div>
