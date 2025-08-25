@@ -28,7 +28,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=notkenftr&show_icons=true&theme=transparent&bg_color=22232e&text_color=ffffff&hide_border=true&hide_rank=true&title_color=2f81f7&text_bold=false&card_width=380" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notkenftr&theme=dark&background=22232e&border=22232e&ring=2f81f7&fire=2f81f7&currStreakLabel=ffffff&hide_border=true&card_width=380" />
 </p>
 
 ---
