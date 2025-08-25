@@ -12,7 +12,7 @@
   -> [Invite DeeSyn](https://discord.com/oauth2/authorize?client_id=981424058392526848)  
 - ⚡ **DeeSyn L1** – Phiên bản rút gọn  
   -> [GitHub Repo](https://github.com/Notkenftr/DeeSyn-L1)
-- 📦 **Azurite** - dự án bot discord open source cho phép import module
+- 📦 **Azurite** - dự án bot discord open source cho phép import module  
   -> [GitHub Repo](https://github.com/Notkenftr/Azurite)
 
 - 🛠️ Và một số dự án nhỏ khác đang phát triển...  
