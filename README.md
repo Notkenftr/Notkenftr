@@ -12,9 +12,9 @@
 |---------|------------|--------|-------|
 | ⚡ **DeeSyn** – Bot Discord tích hợp AI giúp thiết kế server | ❌ | 🟢 Hoạt động | [Invite DeeSyn](https://discord.com/oauth2/authorize?client_id=981424058392526848) |
 | ⚡ **DeeSyn L1** – Phiên bản rút gọn | ❌ | ⚠️ Tạm hoãn | [GitHub Repo](https://github.com/Notkenftr/DeeSyn-L1) <br> **Update cuối:** 2/5/2025 |
+| 🔗 **Azurite-McProxy** - Một proxy forward đơn giản giúp bạn ẩn ip khi chơi mc | ✅ | 🟢 Hoạt động | [GitHub Repo]([https://github.com/Notkenftr/DeeSyn-L1](https://github.com/Notkenftr/Azurite-McProxy))
 | 📦 **Swit** – Bot Discord tải plugin động | ✅ | 🟢 Hoạt động | [GitHub Repo 1](https://github.com/Notkenftr/Azurite) <br> [GitHub Repo 2](https://github.com/Deesyn/Swit) |
 | 🍃 **Swit-SPL** – Phiên bản siêu nhẹ của Swit | ✅ | 📦 Đang phát triển | - |
-| 🛠️ **Các dự án nhỏ khác** | ❌ | 🔄 Đang phát triển | - |
 
 ---
 
