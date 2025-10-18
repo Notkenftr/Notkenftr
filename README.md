@@ -8,22 +8,22 @@
 
 ## 🍃 Projects  
 
-- ⚡ **DeeSyn** – Bot Discord tích hợp AI giúp thiết kế server
-  open source: `❌ không`
-  -> [Invite DeeSyn](https://discord.com/oauth2/authorize?client_id=981424058392526848)  
-- ⚡ **DeeSyn L1** – Phiên bản rút gọn
-  open source: `❌ không`
-  **Update lần cuối:** 2/5/2025
-  **Status:** `⚠️ Tạm hoãn`
-  -> [GitHub Repo](https://github.com/Notkenftr/DeeSyn-L1)
+- ⚡ **DeeSyn** – Bot Discord tích hợp AI giúp thiết kế server <br>
+  open source: `❌ không` <br>
+  -> [Invite DeeSyn](https://discord.com/oauth2/authorize?client_id=981424058392526848)   <br>
+- ⚡ **DeeSyn L1** – Phiên bản rút gọn <br>
+  open source: `❌ không` <br>
+  **Update lần cuối:** 2/5/2025 <br>
+  **Status:** `⚠️ Tạm hoãn` <br>
+  -> [GitHub Repo](https://github.com/Notkenftr/DeeSyn-L1) <br> <br>
   
-- 📦 **Swit** - dự án bot discord cho phép tải các plugin động
-  open source: `✅ có`
-  -> [GitHub Repo]([https://github.com/Notkenftr/Azurite](https://github.com/Notkenftr/Swit))
-  -> [GitHub Repo]([https://github.com/Deesyn/Swit])
-- 🍃 **Swit-SPL** - phiên bản siêu nhẹ của **Swit** cắt giảm tính năng nhưng có hiệu suất cực cao.
-  open source: `✅ có`
-  **Status:** `📦 Đang phát triển`
+- 📦 **Swit** - dự án bot discord cho phép tải các plugin động <br>
+  open source: `✅ có` <br>
+  -> [GitHub Repo]([https://github.com/Notkenftr/Azurite](https://github.com/Notkenftr/Swit)) <br>
+  -> [GitHub Repo]([https://github.com/Deesyn/Swit]) <br>
+- 🍃 **Swit-SPL** - phiên bản siêu nhẹ của **Swit** cắt giảm tính năng nhưng có hiệu suất cực cao. <br>
+  open source: `✅ có` <br>
+  **Status:** `📦 Đang phát triển` <br>
 - 🛠️ Và một số dự án nhỏ khác đang phát triển...  
 
 ---
