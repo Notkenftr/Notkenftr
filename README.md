@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kenftr
 
 <p align="center">
-  <b>“Một học sinh cấp 3 bình thường =))”</b>
+  <b>"Hiện tại mình đang là học sinh cấp 3 tại việt nam, sống một cuốc sống chill chill ngày qua ngày"</b>
 </p>
 
 ---
