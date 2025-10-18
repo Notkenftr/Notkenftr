@@ -19,8 +19,10 @@
   
 - 📦 **Swit** - dự án bot discord cho phép tải các plugin động <br>
   open source: `✅ có` <br>
+  
   -> [GitHub Repo]([https://github.com/Notkenftr/Azurite](https://github.com/Notkenftr/Swit)) <br>
   -> [GitHub Repo]([https://github.com/Deesyn/Swit]) <br>
+  
 - 🍃 **Swit-SPL** - phiên bản siêu nhẹ của **Swit** cắt giảm tính năng nhưng có hiệu suất cực cao. <br>
   open source: `✅ có` <br>
   **Status:** `📦 Đang phát triển` <br>
