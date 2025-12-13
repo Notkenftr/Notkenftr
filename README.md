@@ -33,8 +33,8 @@
 ## 📊 My Stats
 
 <p align="center" style="display:flex; justify-content:center; align-items:flex-start; gap:10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=notkenftr&show_icons=true&theme=transparent&bg_color=22232e&text_color=ffffff&hide_border=true&hide_rank=true&title_color=2f81f7&text_bold=false&card_width=380" 
-       alt="GitHub Stats" style="transform:scale(0.5); transform-origin:top left;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notkenftr&theme=radical">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=notkenftr&theme=radical"><br>
        
   <img src="https://wakatime.com/share/@kenftr/05e671f3-0507-4954-a136-95ed142a9cbc.svg" 
        alt="WakaTime Stats" style="transform:scale(0.5); transform-origin:top left;" />
