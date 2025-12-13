@@ -36,7 +36,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=notkenftr&show_icons=true&theme=transparent&bg_color=22232e&text_color=ffffff&hide_border=true&hide_rank=true&title_color=2f81f7&text_bold=false&card_width=380" />
 </p>
-[![wakatime](https://wakatime.com/badge/user/1d34df64-030d-4cb2-8834-a4bb8e61a24c/projects.svg)](https://wakatime.com/@notkenftr/projects)
 ---
 
 ✨ **My favorite quote:** *Always learning, always building.*
