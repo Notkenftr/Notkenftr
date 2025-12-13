@@ -37,7 +37,7 @@
        alt="GitHub Stats" style="display:inline-block;margin-right:10px;vertical-align:top;" />
        
   <img src="https://wakatime.com/share/@kenftr/05e671f3-0507-4954-a136-95ed142a9cbc.svg" 
-       alt="WakaTime Stats" style="display:inline-block;vertical-align:top; width:300px;" />
+       alt="WakaTime Stats" style="display:inline-block;vertical-align:top; width:500px;" />
 </p>
 
 ---
