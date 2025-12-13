@@ -37,9 +37,10 @@
        alt="GitHub Stats" style="display:block;" />
        
   <figure style="display:block; margin:0;">
-    <embed src="https://wakatime.com/share/@kenftr/280eb43a-dc2d-400c-9bf7-56058814852d.svg" style="display:block;" />
+    <embed src="https://wakatime.com/share/@kenftr/05e671f3-0507-4954-a136-95ed142a9cbc.svg" style="display:block;" />
   </figure>
 </p>
+
 
 
 ---
