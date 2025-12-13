@@ -36,7 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=notkenftr&show_icons=true&theme=transparent&bg_color=22232e&text_color=ffffff&hide_border=true&hide_rank=true&title_color=2f81f7&text_bold=false&card_width=380" 
        alt="GitHub Stats" style="display:inline-block;margin-right:10px;vertical-align:top;" />
        
-  <img src="https://wakatime.com/share/@kenftr/0723608c-d452-46e7-b663-e940474e6236.svg" 
+  <img src="[https://wakatime.com/share/@kenftr/0723608c-d452-46e7-b663-e940474e6236.svg](https://wakatime.com/share/@kenftr/280eb43a-dc2d-400c-9bf7-56058814852d.svg)" 
        alt="WakaTime Stats" style="display:inline-block;vertical-align:top;" />
 </p>
 
