@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 📦 My ToolBox
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,java,js,discord,html,css,git" height="50" />
