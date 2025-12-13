@@ -9,13 +9,14 @@
 
 ## 🍃 Projects
 
-| Project | Open Source |language| Status | Links |
-|---------|------------|--------|-------|
-| ⚡ **DeeSyn** – Discord bot with AI integration for server design | ❌ |[i](https://skillicons.dev/icons?i=py,java) |🟢 Updated frequently | [Invite DeeSyn](https://discord.com/oauth2/authorize?client_id=981424058392526848) |
-| ⚡ **DeeSyn L1** – Lightweight version | ❌ | ⚠️ Temporarily paused |[i](https://skillicons.dev/icons?i=py) | [GitHub Repo](https://github.com/Notkenftr/DeeSyn-L1) <br> **Last Update:** 2/5/2025 |
-| 🔗 **Azurite-McProxy** – A simple forward proxy to hide your IP when playing Minecraft | ✅ |[i](https://skillicons.dev/icons?i=py) | 🟢 Occasional updates | [GitHub Repo](https://github.com/Notkenftr/Azurite-McProxy) |
-| 📦 **Swit** – Discord bot for dynamic plugin loading | ✅ | 🟢 Updated frequently |[i](https://skillicons.dev/icons?i=py) | [GitHub Repo 1](https://github.com/Notkenftr/Azurite) <br> [GitHub Repo 2](https://github.com/Deesyn/Swit) |
-| 🍃 **Swit-SPL** – Ultra-light version of Swit | ✅ |[i](https://skillicons.dev/icons?i=py) | 📦 In development | - |
+| Project | Open Source | Language | Status | Links |
+|---------|------------|---------|--------|-------|
+| ⚡ **DeeSyn** – Discord bot with AI integration for server design | ❌ | ![Python](https://skillicons.dev/icons?i=py) ![Java](https://skillicons.dev/icons?i=java) | 🟢 Updated frequently | [Invite DeeSyn](https://discord.com/oauth2/authorize?client_id=981424058392526848) |
+| ⚡ **DeeSyn L1** – Lightweight version | ❌ | ![Python](https://skillicons.dev/icons?i=py) | ⚠️ Temporarily paused | [GitHub Repo](https://github.com/Notkenftr/DeeSyn-L1) <br> **Last Update:** 2/5/2025 |
+| 🔗 **Azurite-McProxy** – A simple forward proxy to hide your IP when playing Minecraft | ✅ | ![Python](https://skillicons.dev/icons?i=py) | 🟢 Occasional updates | [GitHub Repo](https://github.com/Notkenftr/Azurite-McProxy) |
+| 📦 **Swit** – Discord bot for dynamic plugin loading | ✅ | ![Python](https://skillicons.dev/icons?i=py) | 🟢 Updated frequently | [GitHub Repo 1](https://github.com/Notkenftr/Azurite) <br> [GitHub Repo 2](https://github.com/Deesyn/Swit) |
+| 🍃 **Swit-SPL** – Ultra-light version of Swit | ✅ | ![Python](https://skillicons.dev/icons?i=py) | 📦 In development | - |
+
 
 ---
 
