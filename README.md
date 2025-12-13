@@ -34,15 +34,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=notkenftr&show_icons=true&theme=transparent&bg_color=22232e&text_color=ffffff&hide_border=true&hide_rank=true&title_color=2f81f7&text_bold=false&card_width=380" 
-       alt="GitHub Stats" style="display:inline-block;margin-right:10px;vertical-align:top; transform:scale(0.8);" />
+       alt="GitHub Stats" style="display:inline-block;margin-right:10px;vertical-align:top;" />
        
   <img src="https://wakatime.com/share/@kenftr/05e671f3-0507-4954-a136-95ed142a9cbc.svg" 
-       alt="WakaTime Stats" style="display:inline-block;vertical-align:top; transform:scale(1);" />
+       alt="WakaTime Stats" style="display:inline-block;vertical-align:top; width:300px;" />
 </p>
-
-
-
-
 
 ---
 
