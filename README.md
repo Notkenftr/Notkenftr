@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Kenftr
 
 <p align="center">
-  <b>"Hiện tại mình đang là học sinh cấp 3 tại việt nam, sống một cuốc sống chill chill ngày qua ngày"</b>
+  <b>"Currently, I'm a high school student in Vietnam, living a chill life day by day, 
+  studying and exploring programming and technology, enjoying challenging myself, and sharing the knowledge and small projects I create with the community."</b>
 </p>
 
 ---
@@ -10,11 +11,11 @@
 
 | Project | Open Source | Status | Links |
 |---------|------------|--------|-------|
-| ⚡ **DeeSyn** – Bot Discord tích hợp AI giúp thiết kế server | ❌ | 🟢 Update thường xuyên | [Invite DeeSyn](https://discord.com/oauth2/authorize?client_id=981424058392526848) |
-| ⚡ **DeeSyn L1** – Phiên bản rút gọn | ❌ | ⚠️ Tạm hoãn | [GitHub Repo](https://github.com/Notkenftr/DeeSyn-L1) <br> **Update cuối:** 2/5/2025 |
-| 🔗 **Azurite-McProxy** - Một proxy forward đơn giản giúp bạn ẩn ip khi chơi mc | ✅ | 🟢 Update không xuyên | [GitHub Repo]([https://github.com/Notkenftr/DeeSyn-L1](https://github.com/Notkenftr/Azurite-McProxy))
-| 📦 **Swit** – Bot Discord tải plugin động | ✅ | 🟢 Update thường xuyên | [GitHub Repo 1](https://github.com/Notkenftr/Azurite) <br> [GitHub Repo 2](https://github.com/Deesyn/Swit) |
-| 🍃 **Swit-SPL** – Phiên bản siêu nhẹ của Swit | ✅ | 📦 Đang phát triển | - |
+| ⚡ **DeeSyn** – Discord bot with AI integration for server design | ❌ | 🟢 Updated frequently | [Invite DeeSyn](https://discord.com/oauth2/authorize?client_id=981424058392526848) |
+| ⚡ **DeeSyn L1** – Lightweight version | ❌ | ⚠️ Temporarily paused | [GitHub Repo](https://github.com/Notkenftr/DeeSyn-L1) <br> **Last Update:** 2/5/2025 |
+| 🔗 **Azurite-McProxy** – A simple forward proxy to hide your IP when playing Minecraft | ✅ | 🟢 Occasional updates | [GitHub Repo](https://github.com/Notkenftr/Azurite-McProxy) |
+| 📦 **Swit** – Discord bot for dynamic plugin loading | ✅ | 🟢 Updated frequently | [GitHub Repo 1](https://github.com/Notkenftr/Azurite) <br> [GitHub Repo 2](https://github.com/Deesyn/Swit) |
+| 🍃 **Swit-SPL** – Ultra-light version of Swit | ✅ | 📦 In development | - |
 
 ---
 
@@ -34,4 +35,4 @@
 
 ---
 
-✨ *Always learning, always building.*
+✨ **My favorite quote:** *Always learning, always building.*
