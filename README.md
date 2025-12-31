@@ -23,7 +23,7 @@
 ## 📦 My ToolBox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,js,discord,html,css,git" height="50" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,discord,html,css,sql,git" height="50" />
   <img src="https://skillicons.dev/icons?i=idea,pycharm,flask,vscode,vim,arch" height="50" />
   <img src="https://skillicons.dev/icons?i=cloudflare,julia,linux,gradle,postman,git" height="50" />
 </p>
