@@ -16,7 +16,7 @@
 | 🔗 **Azurite-McProxy** – A simple forward proxy to hide your IP when playing Minecraft | ✅ | ![Python](https://skillicons.dev/icons?i=py) | 🟢 Occasional updates | [GitHub Repo](https://github.com/Notkenftr/Azurite-McProxy) |
 | 📦 **Swit** – Discord bot for dynamic plugin loading | ✅ | ![Python](https://skillicons.dev/icons?i=py) | 🟢 Updated frequently | [GitHub Repo 1](https://github.com/Notkenftr/Azurite) <br> [GitHub Repo 2](https://github.com/Deesyn/Swit) |
 | 🍃 **Swit-SPL** – Ultra-light version of Swit | ✅ | ![Python](https://skillicons.dev/icons?i=py) | 📦 In development | - |
-
+| 📦 **Mclium** – Advanced Minecraft pentesting toolkit with raw protocol client, Java class injector, and deep server testing capabilities | ❌ | ![Python](https://skillicons.dev/icons?i=py) ![Java](https://skillicons.dev/icons?i=java) | 🧪 Active development | Private |
 
 ---
 
