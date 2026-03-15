@@ -13,7 +13,7 @@
 |---------|------------|---------|--------|-------|
 | ⚡ **DeeSyn** – Discord bot with AI integration for server design | ❌ | ![Python](https://skillicons.dev/icons?i=py) ![Java](https://skillicons.dev/icons?i=java) | 🟢 Updated frequently | [Invite DeeSyn](https://discord.com/oauth2/authorize?client_id=981424058392526848) |
 | ⚡ **DeeSyn L1** – Lightweight version | ❌ | ![Python](https://skillicons.dev/icons?i=py) | ⚠️ Temporarily paused | [GitHub Repo](https://github.com/Notkenftr/DeeSyn-L1) <br> **Last Update:** 2/5/2025 |
-| 🔗 **Azurite-McProxy** – A simple forward proxy to hide your IP when playing Minecraft | ✅ | ![Python](https://skillicons.dev/icons?i=py) | 🟢 Occasional updates | [GitHub Repo](https://github.com/Notkenftr/Azurite-McProxy) |
+| 🔗 **Azurite-McProxy** – A simple forward proxy to hide your IP when playing Minecraft | ✅ | ![Python](https://skillicons.dev/icons?i=py) | 🟢 Done. | [GitHub Repo](https://github.com/Notkenftr/Azurite-McProxy) |
 | 📦 **Swit** – Discord bot for dynamic plugin loading | ✅ | ![Python](https://skillicons.dev/icons?i=py) | ⚠️ Temporarily paused | [GitHub Repo 1](https://github.com/Notkenftr/Azurite) <br> [GitHub Repo 2](https://github.com/Deesyn/Swit) |
 | 🍃 **Swit-SPL** – Ultra-light version of Swit | ✅ | ![Python](https://skillicons.dev/icons?i=py) | ⚠️ Temporarily paused| - |
 | 📦 **Mclium** – Advanced Minecraft pentesting toolkit with raw protocol client, Java class injector, and deep server testing capabilities | ❌ | ![Python](https://skillicons.dev/icons?i=py) ![Java](https://skillicons.dev/icons?i=java) ![Go](https://skillicons.dev/icons?i=go) | 🧪 Active development | - |
