@@ -30,7 +30,7 @@
 
 ---
 
-## 📦 My Skills
+## 📦 My Main Skills
 ```
 Java
 ├─ Paper / Folia / Velocity plugin
