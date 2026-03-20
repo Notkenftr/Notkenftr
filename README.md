@@ -7,7 +7,7 @@
 
 ---
 
-## 🍃 Projects
+## 🍃 Typical Projects
 
 | Project | Open Source | Language | Status | Links |
 |---------|------------|---------|--------|-------|
@@ -29,6 +29,29 @@
 </p>
 
 ---
+
+## 📦 My Skills
+```
+Java
+├─ Paper / Folia / Velocity plugin
+├─ Fabric Mod
+├─ Web backend
+└─ Discord JDA
+
+Python
+├─ Discord.py
+├─ Web backend
+├─ CLI app
+├─ Scapy / socket programming / fuzzing
+└─ AI / ML basics (PyTorch)
+
+Other
+├─ Reverse engineering basics
+└─ Protocol fuzzing / testing frameworks
+```
+
+---
+
 
 ## 📊 My Stats
 
