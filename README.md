@@ -45,6 +45,9 @@ Python
 ├─ Scapy / socket programming / fuzzing
 └─ AI / ML basics (PyTorch)
 
+Minecraft
+└─ Minecraft protocol
+
 Other
 ├─ Reverse engineering basics
 └─ Protocol fuzzing / testing frameworks
