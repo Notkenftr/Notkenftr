@@ -46,6 +46,7 @@ Python
 └─ AI / ML basics (PyTorch)
 
 Minecraft
+├─ 3 years of server setup experience
 └─ Minecraft protocol
 
 Other
