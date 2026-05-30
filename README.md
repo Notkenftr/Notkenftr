@@ -1,15 +1,5 @@
 ![HEADER](./assets/header.png)
 
-<div align="center">
-
-# 👨‍💻 About Me
-
-Currently, I'm a high school student in Vietnam, living a chill life day by day,
-studying and exploring programming and technology, enjoying challenging myself,
-and sharing the knowledge and small projects I create with the community.
-
-</div>
-
 --- 
 
 <div align="center">
