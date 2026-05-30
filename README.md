@@ -1,6 +1,9 @@
 ![HEADER](./assets/header.png)
 
-![WakaTime](https://wakatime.com/badge/user/1d34df64-030d-4cb2-8834-a4bb8e61a24c.svg)
+<div align="">
+  <img height="22" src="https://wakatime.com/badge/user/1d34df64-030d-4cb2-8834-a4bb8e61a24c.svg" />
+  <img height="23" src="https://visitor-badge.laobi.icu/badge?page_id=Notkenftr.Notkenftr&left_color=0d1117&right_color=bd93f9" />
+</div>
 
 ---
 
