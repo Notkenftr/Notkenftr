@@ -46,7 +46,7 @@
 </div>
 
 
-<<div align="center">
+<div align="center">
   <h1>⚡️ GitHub Stats</h1>
 
   <!-- Profile Summary Cards -->
