@@ -88,13 +88,15 @@ and sharing the knowledge and small projects I create with the community.
 </div>
 
 
-<div align="center">
+<<div align="center">
   <h1>⚡️ GitHub Stats</h1>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Notkenftr&show_icons=true&theme=transparent&hide_border=true" />
+  <!-- Profile Summary Cards -->
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notkenftr&theme=transparent" alt="GitHub Details" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notkenftr&theme=transparent" alt="Top Languages" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notkenftr&layout=compact&theme=transparent&hide_border=true" />
+  <br><br>
 
-  <img src="https://wakatime.com/share/@kenftr/05e671f3-0507-4954-a136-95ed142a9cbc.svg">
+  <!-- WakaTime Card -->
+  <img src="https://wakatime.com/share/@kenftr/05e671f3-0507-4954-a136-95ed142a9cbc.svg" alt="WakaTime Stats">
 </div>
-
