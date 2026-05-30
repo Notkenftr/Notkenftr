@@ -18,6 +18,8 @@ and sharing the knowledge and small projects I create with the community.
 
 
 </div>
+
+
 | Project | Open Source | Language | Status | Links |
 |---------|------------|---------|--------|-------|
 | ⚡ **DeeSyn** – Discord bot with AI integration for server design | ❌ | ![Python](https://skillicons.dev/icons?i=py) ![Java](https://skillicons.dev/icons?i=java) | 🟢 Updated frequently | [Invite DeeSyn](https://discord.com/oauth2/authorize?client_id=981424058392526848) |
