@@ -25,7 +25,7 @@
   <h1>💻 Programming Languages & Technologies</h1>
 </div>
 
-![HEADER](./assets/programming_languages_and_technologies.png)
+![HEADER](assets/plat.png)
 
 ---
 
