@@ -33,23 +33,10 @@ and sharing the knowledge and small projects I create with the community.
 
 <div align="center">
   <h1>💻 Programming Languages & Technologies</h1>
-
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,js,html,css,julia" />
-
-  <h3>Frameworks & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,gradle,git,postman,obsidian" />
-  <br><br>
-  <img src="https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/JDA-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-
-  <h3>IDEs & Editors</h3>
-  <img src="https://skillicons.dev/icons?i=pycharm,idea,neovim,vscode,visualstudio" />
-
-  <h3>Operating Systems</h3>
-  <img src="https://skillicons.dev/icons?i=arch,ubuntu,kali,linux,windows,apple" />
 </div>
+
+![HEADER](./assets/programming_languages_and_technologies.png)
+
 ---
 
 <div align="center">
