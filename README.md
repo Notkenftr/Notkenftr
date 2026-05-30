@@ -52,9 +52,10 @@
   <!-- Profile Summary Cards -->
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notkenftr&theme=transparent" alt="GitHub Details" />
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notkenftr&theme=transparent" alt="Top Languages" />
-
+  <img height="150em" src="https://awesome-github-stats.azurewebsites.net/user-stats/notkenftr?cardType=level-alternate&theme=dark&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card" />
   <br><br>
 
   <!-- WakaTime Card -->
   <img src="https://wakatime.com/share/@kenftr/05e671f3-0507-4954-a136-95ed142a9cbc.svg" alt="WakaTime Stats">
+
 </div>
