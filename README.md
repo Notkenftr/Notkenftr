@@ -50,7 +50,8 @@
   <h1>⚡️ GitHub Stats</h1>
 
   <!-- Profile Summary Cards -->
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notkenftr&theme=transparent" alt="GitHub Details" />
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notkenftr&theme=github_dark" alt="GitHub Details" />
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notkenftr&theme=github_dark&utcOffset=8" alt="GitHub Details" />
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notkenftr&theme=transparent" alt="Top Languages" />
   <img height="150em" src="https://awesome-github-stats.azurewebsites.net/user-stats/notkenftr?cardType=level-alternate&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card" />
   <br><br>
