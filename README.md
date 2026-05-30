@@ -53,6 +53,7 @@
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notkenftr&theme=github_dark" alt="GitHub Details" />
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notkenftr&theme=github_dark&utcOffset=8" alt="GitHub Details" />
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notkenftr&theme=github_dark" alt="Top Languages" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notkenftr&theme=github_dark" alt="Top Languages" />
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=notkenftr&theme=github_dark" alt="Top Languages" />
   <br><br>
 
