@@ -66,3 +66,5 @@
   <img src="https://wakatime.com/share/@kenftr/05e671f3-0507-4954-a136-95ed142a9cbc.svg" alt="WakaTime Stats">
 
 </div>
+
+*95% of my projects are entirely researched and developed by myself, without any AI intervention. And I am not vibecoding.*
