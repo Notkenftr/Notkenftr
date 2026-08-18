@@ -50,6 +50,35 @@
   <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" />
 </div>
 
+---
+
+# 📦 My Skill
+```
+📦 ~/skills
+├── minecraft/
+│   ├── server/
+│   │   ├── fabric
+│   │   ├── forge
+│   │   ├── paper
+│   │   └── folia
+│   ├── plugin-development (folia, paper, spigot)
+│   ├── mod-development (fabric,forge)
+│   ├── protocol
+│   └── mca
+│
+├── development/
+│   ├── machine-learning
+│   └── discord-bots
+│
+└── experience/
+    ├── cloudflare / dns
+    ├── minecraft-server-setup  → 3+ years
+    └── discord-development      → 2+ years
+
+> minecraft ❤️
+```
+
+
 
 <div align="center">
   <h1>⚡️ GitHub Stats</h1>
